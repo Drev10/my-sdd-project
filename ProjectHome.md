@@ -1,0 +1,1 @@
+An Android application with an embedded media player that receives data from a cloud database.  The data is used to create smil files that the media player will read and compose into playable media.
